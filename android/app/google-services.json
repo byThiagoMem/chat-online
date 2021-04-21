@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007121724119",
+    "project_id": "chatflutter-8dbee",
+    "storage_bucket": "chatflutter-8dbee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007121724119:android:4823251c55d88354e63692",
+        "android_client_info": {
+          "package_name": "mem.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007121724119-0i89k5mbgonp43fssdrs8bnis9n67bq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_530kxEwSayO7BBcMnbPy-UTIxfF3t0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007121724119-0i89k5mbgonp43fssdrs8bnis9n67bq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
